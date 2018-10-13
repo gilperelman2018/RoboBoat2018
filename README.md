@@ -8,4 +8,7 @@ This project we are using the following:
  - Ubuntu 16.04
   
   
-  
+# Getting started
+### First we have to  
+1. Install the Jetson SDK on to a host computer 
+![alt text](https://platypus-boats.readthedocs.io/en/latest/_images/jetpack_1.png)
